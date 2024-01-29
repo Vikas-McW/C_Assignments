@@ -1,8 +1,8 @@
 /*
  * lab1b.c
  *
- *  Created on:
- *      Author:
+ *  Created on: 28 Jan 2024
+ *      Author: Vikas Prajapati
  */
 
 /* include helper functions for game */

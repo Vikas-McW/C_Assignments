@@ -1,8 +1,8 @@
 /*
  * lifegame.c
  *
- *  Created on:
- *      Author:
+ *  Created on: 24 Jan 2024
+ *      Author: Vikas Prajapati
  */
 
 #include <stdio.h>
@@ -190,3 +190,5 @@ void output_world(void)
 	worldstr[2 * WORLDWIDTH] = '+';
 	puts(worldstr);
 }
+
+
